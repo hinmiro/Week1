@@ -7,5 +7,5 @@
 </ul>
 
 <h3>Validates</h3>
-<img src="Exercise01/img/img.png" alt="css">
-<img src="Exercise01/img/img_1.png" alt="html">
+![css](Exercise01/img/img.png)
+![html](Exercise01/img/img_1.png)
