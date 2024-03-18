@@ -1,0 +1,40 @@
+* {
+    font-family: "Ink Free", "Arial";
+}
+
+body {
+    background-color: lightgrey;
+}
+
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aliceblue;
+    background-color: blue;
+}
+
+img {
+    border-radius: 30%;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+tr:nth-child(odd) {
+    color: dodgerblue;
+    background-color: hotpink;
+}
+
+tr:nth-child(even) {
+    color: hotpink;
+    background-color: dodgerblue;
+}
+
+.list {
+    list-style-type: upper-roman;
+}
