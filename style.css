@@ -1,5 +1,5 @@
 * {
-    font-family: "Ink Free", "Arial";
+    font-family: "Ink Free", Arial, sans-serif;
 }
 
 body {
@@ -18,6 +18,8 @@ a:hover {
 
 img {
     border-radius: 30%;
+    border-style: groove;
+    border-color: greenyellow;
 }
 
 table {
